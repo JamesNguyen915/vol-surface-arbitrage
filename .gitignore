@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ipynb_checkpoints/
+data/cache/
+*.parquet
+*.csv
+.DS_Store
+.env
+generate_notebooks.py
